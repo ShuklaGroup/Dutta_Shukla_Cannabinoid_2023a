@@ -7,6 +7,14 @@ This repository contains all the scripts and links (box folder) for the necessay
 - Main_Figure_3C.py: script for generating scatter plot shown in Main Figure 3C. 
 - Links for necessary files to generate figures : https://uofi.box.com/s/y3sqrzwmo6v740itoy1qs649uurud865
 
+
+## Main_Figure_4
+- Main_Figure_4A.py: script for generating bar plot shown in Main Figure 4A.
+- Main_Figure_4B.py: script for generating box plot shown in Main Figure 4B.
+- Main_Figure_4C.py: script for generating box plot shown in Main Figure 4C.
+- Main_Figure_4D.py: script for generating box plot shown in Main Figure 4D.
+- Links for necessary files to generate figures : https://uofi.box.com/s/4lxxdwpj6rf1tcka9yort729lsoww19b
+
 ## Main_Figure_5
 - Main_Figure_5A.py: script for generating contour free energy plot shown in Main Figure 5A. 
 - Main_Figure_5B.py: script for generating contour free energy plot shown in Main Figure 5B. 
