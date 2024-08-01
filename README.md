@@ -33,7 +33,6 @@ This repository contains all the scripts and links (box folder) for the necessay
 - Links for necessary files to generate figures : https://uofi.box.com/s/vn85ycljd3k5tn91rv08jhcg8ra897dr
 
 ## Main_Figure_8
-- Main_Figure_8A.py: script for generating probability density plot shown in Main Figure 8A. 
+- Main_Figure_8A.py: script for generating bar plot shown in Main Figure 8A. 
 - Main_Figure_8B.py: script for generating probability density plot shown in Main Figure 8B.
-- Main_Figure_8C.py: script for generating the bar plot shown in Main Figure 8C.
 - Links for necessary files to generate figures : https://uofi.box.com/s/4ruu5vd4ghlpkqh7wcqj96ngc84wbp5b
