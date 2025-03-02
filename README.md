@@ -1,4 +1,4 @@
-# Transition-based reweighting and neural rational inference analysis of effects of new psychoactive substances on cannabinoid receptors
+# Characterization of binding kinetics and intracellular signaling of new psychoactive substances targeting cannabinoid receptor using transition-based reweighting method
 
 This repository contains all the scripts and links (box folder) for the necessay files to genarate figures in the manuscript.
 
