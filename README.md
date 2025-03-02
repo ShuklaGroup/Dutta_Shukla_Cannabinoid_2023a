@@ -2,12 +2,6 @@
 
 This repository contains all the scripts and links (box folder) for the necessay files to genarate figures in the manuscript.
 
-## Main_Figure_3
-- Main_Figure_3A.py: script for generating scatter plot shown in Main Figure 3A. 
-- Main_Figure_3C.py: script for generating scatter plot shown in Main Figure 3C. 
-- Links for necessary files to generate figures : https://uofi.box.com/s/y3sqrzwmo6v740itoy1qs649uurud865
-
-
 ## Main_Figure_4
 - Main_Figure_4A.py: script for generating bar plot shown in Main Figure 4A.
 - Main_Figure_4B.py: script for generating box plot shown in Main Figure 4B.
