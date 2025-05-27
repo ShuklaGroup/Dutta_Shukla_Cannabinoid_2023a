@@ -30,3 +30,6 @@ This repository contains all the scripts and links (box folder) for the necessay
 - Main_Figure_8A.py: script for generating bar plot shown in Main Figure 8A. 
 - Main_Figure_8B.py: script for generating probability density plot shown in Main Figure 8B.
 - Links for necessary files to generate figures : https://uofi.box.com/s/4ruu5vd4ghlpkqh7wcqj96ngc84wbp5b
+
+## tram_building.ipynb
+- This Jupyter notebook contains step by step procedure to build TRAM obj for classical cannabinoid system
